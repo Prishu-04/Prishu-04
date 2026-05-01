@@ -40,37 +40,35 @@ Not just learning theory — I design, build, and ship **practical solutions**.
 ## 🌟 Featured Projects (Showcase)
 
 ### 🏥 Medical Report Automation
-
 <p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=Medical+Automation+Project" />
+  <img src="assets/medical.png" width="700"/>
 </p>
 
-* AI-based automation system for generating reports
-* Reduces manual work and improves efficiency
+- AI-based automation system for generating reports  
+- Reduces manual work and improves efficiency  
 
 ---
 
 ### 💰 AI Finance Coach
-
 <p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=AI+Finance+Coach" />
+  <img src="assets/finance.png" width="700"/>
 </p>
 
-* Smart assistant for financial insights
-* Data-driven decision support system
+- Smart assistant for financial insights  
+- Data-driven decision support system  
 
 ---
 
 ### 📊 DSA Practice Tracker
-
 <p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=DSA+Tracker" />
+  <img src="assets/dsa.png" width="700"/>
 </p>
 
-* Tracks consistency and performance
-* Helps optimize problem-solving strategy
+- Tracks consistency and performance  
+- Helps optimize problem-solving strategy
 
 ---
+
 
 ## 🛠️ Tech Stack
 
