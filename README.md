@@ -119,9 +119,8 @@ I build **intelligent systems, automation pipelines, and scalable applications**
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prishu-04/Prishu-04/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Prishu-04/Prishu-04/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
