@@ -1,24 +1,111 @@
-# 💫 About Me:
-Hi, I'm Pratyaksh Srivastava 👋<br><br>🚀 B.Tech CSE (AI/ML) Student at KIIT University  <br>💡 Passionate about Artificial Intelligence, Machine Learning, Automation, and Problem Solving  <br>💻 Building projects in AI/ML, RPA, Full-Stack Development, and Data-Driven Automation  <br>📈 Strong focus on Data Structures & Algorithms and Competitive Problem Solving  <br>🏆 Hackathon Enthusiast | Tech Explorer | Continuous Learner  <br><br>## About Me<br>I am an AI/ML engineering student driven by the vision of building impactful intelligent systems.  <br>My journey revolves around mastering **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Scalable Software Development**.<br><br>I enjoy transforming ideas into practical solutions — from **automation systems** and **AI-powered applications** to **problem-solving platforms**.<br><br>Currently, I am focused on:<br>- 🤖 AI/ML & Deep Learning<br>- 📊 Data Science & Analytics<br>- 🧠 Generative AI & LLM Applications<br>- ⚙️ RPA and Workflow Automation<br>- 🌐 Full-Stack Development<br>- 🧩 DSA & Competitive Programming<br>- ☁️ MLOps and AI Deployment<br><br>## Tech Stack<br>**Languages:** Python, Java, SQL, JavaScript  <br>**AI/ML:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  <br>**Web:** HTML, CSS, JavaScript, React  <br>**Database:** MySQL, MongoDB  <br>**Tools:** Git, GitHub, UiPath, Jupyter, VS Code  <br>**Cloud / Deployment:** Docker, Kubernetes, CI/CD, GCP  <br><br>## GitHub Goals<br>🎯 Become top-tier AI/ML Engineer  <br>🎯 Build impactful AI products  <br>🎯 Master DSA and Software Engineering  <br>🎯 Contribute to open source  <br>🎯 Create scalable real-world solutions  <br><br>📫 Reach me: **prishugenaiml22@gmail.com**  <br>🔗 LinkedIn: **https://www.linkedin.com/in/pratyaksh-srivastava-ai-ml/**
+<!-- Animated Typing Intro -->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prishu_20_a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratyaksh-srivastava-ai-ml/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pratyaksh Srivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyakshsrivastava23ks@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prishu-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Prishu-04&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prishu-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prishu-04&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pratyaksh+Srivastava+👋;AI%2FML+Engineer+in+Progress;Building+AI+%7C+Automation+%7C+Scalable+Systems;DSA+%7C+GenAI+%7C+MLOps+Enthusiast" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Prishu-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi, I'm Pratyaksh Srivastava
+
+🚀 **B.Tech CSE (AI/ML) @ KIIT University**
+💡 AI/ML Enthusiast | Problem Solver | Builder
+
+I build **intelligent systems, automation solutions, and scalable applications** using AI & modern tech.
+Focused on turning ideas into **real-world impactful products**.
+
+---
+
+## 🧠 About Me
+
+* 🤖 Building projects in **AI/ML, RPA & Full-Stack Development**
+* 📊 Strong in **Data Structures & Algorithms**
+* 🧠 Exploring **Generative AI & LLM Applications**
+* ⚙️ Passionate about **Automation & System Design**
+* 🏆 Hackathon Enthusiast | Continuous Learner
+
+---
+
+## 🚀 Current Focus
+
+* AI/ML & Deep Learning
+* Generative AI (LLMs)
+* MLOps & Deployment
+* Full-Stack Development
+* Competitive Programming
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • Java • C++ • SQL • JavaScript
+
+**AI/ML:**
+NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch
+
+**Web & Backend:**
+HTML • CSS • React • Flask • Django • FastAPI
+
+**Database:**
+MySQL • MongoDB
+
+**Tools & DevOps:**
+Git • GitHub • Docker • Kubernetes • CI/CD • MLflow
+
+---
+
+## 🌟 Featured Projects
+
+🔹 **Medical Report Automation**
+→ AI-powered system to automate medical report generation
+
+🔹 **AI Finance Coach**
+→ Intelligent assistant for financial insights and planning
+
+🔹 **DSA Practice Tracker**
+→ Track and improve problem-solving consistency
+
+> ⚡ *Tip: Replace these with your actual repo links for maximum impact*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Prishu-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Prishu-04&theme=radical&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prishu-04&theme=radical&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratyaksh-srivastava-ai-ml/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/prishu_20_a">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:prishugenaiml22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Goals
+
+* Become a **Top AI/ML Engineer**
+* Build **impactful AI products**
+* Master **DSA & System Design**
+* Contribute to **Open Source**
+* Develop **scalable intelligent systems**
+
+---
+
+⭐ *“Build. Learn. Iterate. Repeat.”*
