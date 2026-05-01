@@ -1,37 +1,74 @@
-<!-- Animated Typing Intro -->
+<!-- Animated Typing -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pratyaksh+Srivastava+👋;AI%2FML+Engineer+in+Progress;Building+AI+%7C+Automation+%7C+Scalable+Systems;DSA+%7C+GenAI+%7C+MLOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pratyaksh+Srivastava+👋;AI%2FML+Engineer+%7C+Builder;I+Build+Intelligent+Systems+%F0%9F%A7%A0;From+Ideas+to+Real-World+Impact" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Pratyaksh Srivastava
+<h1 align="center">🚀 AI/ML Engineer in Progress</h1>
 
-🚀 **B.Tech CSE (AI/ML) @ KIIT University**
-💡 AI/ML Engineer in Progress | Problem Solver | Builder
-
-I build **intelligent systems, automation pipelines, and scalable applications** using modern AI & software engineering practices.
-
----
-
-## 🧠 About Me
-
-* 🤖 Building **AI/ML, RPA & Full-Stack Projects**
-* 📊 Strong focus on **DSA & Competitive Programming**
-* 🧠 Exploring **Generative AI & LLM Applications**
-* ⚙️ Interested in **Automation & System Design**
-* 🏆 Hackathons | Continuous Learning
+<p align="center">
+Building <b>AI Systems • Automation • Scalable Products</b><br/>
+Focused on <b>GenAI • MLOps • DSA • System Design</b>
+</p>
 
 ---
 
-## 🚀 Current Focus
+## 🧠 Who Am I
 
-* AI/ML & Deep Learning
-* Generative AI (LLMs)
-* MLOps & Deployment
-* Full-Stack Development
-* Problem Solving (DSA)
+I’m an AI/ML engineering student focused on building **real-world intelligent systems**.
+Not just learning theory — I design, build, and ship **practical solutions**.
+
+* 🤖 AI/ML + Deep Learning
+* 🧠 Generative AI (LLMs)
+* ⚙️ Automation & RPA
+* 🌐 Full-Stack Systems
+* 🧩 DSA & Problem Solving
+
+---
+
+## ⚡ What I’m Doing Right Now
+
+* Building **AI-powered applications**
+* Exploring **LLM + real-world integration**
+* Practicing **DSA daily (towards top 1%)**
+* Learning **MLOps & scalable deployment**
+
+---
+
+## 🌟 Featured Projects (Showcase)
+
+### 🏥 Medical Report Automation
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x350.png?text=Medical+Automation+Project" />
+</p>
+
+* AI-based automation system for generating reports
+* Reduces manual work and improves efficiency
+
+---
+
+### 💰 AI Finance Coach
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x350.png?text=AI+Finance+Coach" />
+</p>
+
+* Smart assistant for financial insights
+* Data-driven decision support system
+
+---
+
+### 📊 DSA Practice Tracker
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x350.png?text=DSA+Tracker" />
+</p>
+
+* Tracks consistency and performance
+* Helps optimize problem-solving strategy
 
 ---
 
@@ -53,65 +90,23 @@ I build **intelligent systems, automation pipelines, and scalable applications**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge\&logo=numpy\&logoColor=blue)
-
----
-
-### 🌐 Web & Frameworks
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-
----
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
 ### ⚙️ DevOps & Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
-
----
-
-### 🎨 Design & Productivity
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-🔹 **Medical Report Automation**
-→ AI-powered system to automate report generation
-
-🔹 **AI Finance Coach**
-→ Smart assistant for financial insights
-
-🔹 **DSA Practice Tracker**
-→ Track and improve coding consistency
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Prishu-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Prishu-04&theme=radical&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Prishu-04&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prishu-04&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=Prishu-04&theme=radical" />
 </p>
 
 ---
@@ -121,31 +116,26 @@ I build **intelligent systems, automation pipelines, and scalable applications**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prishu-04/Prishu-04/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyaksh-srivastava-ai-ml/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/prishu_20_a">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:prishugenaiml22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🎯 Goals
+## 🎯 Vision
 
-* Become a **Top AI/ML Engineer**
-* Build **real-world AI products**
-* Master **DSA & System Design**
-* Contribute to **Open Source**
+> Build AI systems that solve **real-world problems at scale**
 
 ---
 
-⭐ *“Build. Learn. Scale.”*
+⭐ *“Discipline > Motivation. Consistency builds mastery.”*
