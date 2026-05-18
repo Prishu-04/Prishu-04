@@ -101,23 +101,31 @@ Not just learning theory — I design, build, and ship **practical solutions**.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Prishu-04&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Prishu-04&theme=radical" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prishu-04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prishu-04&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Pratyaksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prishu-04&theme=tokyo-night&hide_border=true)](https://github.com/Prishu-04)
 
 ---
 
-## 🐍 Contribution Snake
+# 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prishu-04/Prishu-04/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prishu-04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ## 🌐 Connect With Me
 
