@@ -278,7 +278,7 @@ Forecasting model for natural gas prices.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prishu-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prishu-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prishu-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
@@ -286,12 +286,14 @@ Forecasting model for natural gas prices.
   <img src="https://streak-stats.demolab.com/?user=Prishu-04&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prishu-04&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prishu-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prishu-04/Prishu-04/raw/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Prishu-04/Prishu-04/raw/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://github.com/Prishu-04/Prishu-04/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </p>
 
 ---
