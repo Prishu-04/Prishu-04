@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 <!--  Pratyaksh Srivastava · GitHub Profile README             -->
-<!--  Search for "TODO" to find every spot you need to edit.   -->
+<!--  Add LinkedIn/LeetCode/Kaggle badges to the contact row.  -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -20,11 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TODO-your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pratyakshsrivastava23ks@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://TODO-your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://leetcode.com/u/TODO"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.kaggle.com/TODO"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
 ---
@@ -68,45 +64,114 @@ Not a list of buzzwords. These are the roadmaps I'm working through, in order.
 <td width="33%" valign="top">
 
 ### 🏥 Medical Report Automation
-AI-powered pipeline that automates repetitive medical reporting workflows and cuts manual effort.
+Automates repetitive medical reporting workflows with AI to cut manual effort.
 
-**Stack:** `Python` `LLMs` `Automation`
+**Stack:** `Python` `Automation` `LLMs`
 
-[🔗 Repo](https://github.com/Prishu-04/TODO-medical-repo) · [▶ Demo](https://TODO)
-
-</td>
-<td width="33%" valign="top">
-
-### 💰 AI Finance Coach
-Conversational financial assistant that turns personal finance data into clear, data-driven insights.
-
-**Stack:** `Python` `LLMs` `Pandas`
-
-[🔗 Repo](https://github.com/Prishu-04/TODO-finance-repo) · [▶ Demo](https://TODO)
+[🔗 View repo](https://github.com/Prishu-04/Medical_Report_Automation)
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 DSA Practice Tracker
-Tracks problems solved, consistency and weak topics, so preparation is driven by data instead of guesswork.
+### 🏭 Manufacturing Knowledge Agent
+Knowledge agent that answers questions over manufacturing documents and process data.
 
-**Stack:** `Python` `Web` `Analytics`
+**Stack:** `Python` `RAG` `Agents`
 
-[🔗 Repo](https://github.com/Prishu-04/TODO-dsa-repo) · [▶ Demo](https://TODO)
+[🔗 View repo](https://github.com/Prishu-04/Manufacturing-Knowledge-Agent)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌀 SIH Cyclone Track
+Cyclone tracking project built for Smart India Hackathon.
+
+**Stack:** `Python` `ML` `Geospatial`
+
+[🔗 View repo](https://github.com/Prishu-04/SIH_Cyclone_Track)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🔧 Defect & Process Quality Predictor
+ML model that predicts defects and process-quality issues in manufacturing.
+
+**Stack:** `Python` `scikit-learn`
+
+[🔗 View repo](https://github.com/Prishu-04/Defect-Process-Quality-Predictor)
+
+</td>
+<td width="33%" valign="top">
+
+### 👁️ Visual Detect Classifier
+Image classifier for visual detection tasks.
+
+**Stack:** `Python` `Deep Learning` `CV`
+
+[🔗 View repo](https://github.com/Prishu-04/Visual_Detect_Classifier)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Image Segmentation (K-Means)
+Image segmentation using K-Means clustering.
+
+**Stack:** `Python` `OpenCV` `Clustering`
+
+[🔗 View repo](https://github.com/Prishu-04/Image_Segmentation_using_K_Means_Clustering)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🚗 Vehicle Health, Fuel & Utilization Analytics
+Fleet analytics on vehicle health, fuel use and utilization.
+
+**Stack:** `Python` `Pandas` `Plotly`
+
+[🔗 View repo](https://github.com/Prishu-04/Vehicle-Health-Fuel-And-Utilization-Analytics)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏨 Hospital Capacity & Patient-Flow Planning
+Data analysis for hospital capacity and patient-flow planning.
+
+**Stack:** `Python` `Pandas` `Matplotlib`
+
+[🔗 View repo](https://github.com/Prishu-04/Hospital-Capacity-And-Patient-Flow-Planning)
+
+</td>
+<td width="33%" valign="top">
+
+### ⛽ Natural Gas Price Estimator
+Forecasting model for natural gas prices.
+
+**Stack:** `Python` `Time Series` `ML`
+
+[🔗 View repo](https://github.com/Prishu-04/nat_gas_price_estimator)
 
 </td>
 </tr>
 </table>
 
-<!-- TODO: add a GIF/screenshot per project, e.g.
-<p align="center"><img src="assets/medical.gif" width="650" alt="Medical Report Automation demo"/></p>
-Make sure the files exist in assets/ or the image will render broken. -->
+
+### 📚 More Repositories
+
+| Area | Repositories |
+|:--|:--|
+| 🧩 **DSA** | [Placement_DSA](https://github.com/Prishu-04/Placement_DSA) · [Codesprint_45days_DSA](https://github.com/Prishu-04/Codesprint_45days_DSA) · [DSA-in-C](https://github.com/Prishu-04/DSA-in-C) · [DSA-practise](https://github.com/Prishu-04/DSA-practise) · [OOPS-DSA-JAVA](https://github.com/Prishu-04/OOPS-DSA-JAVA) |
+| 🤖 **AI / ML** | [AI-ML](https://github.com/Prishu-04/AI-ML) · [AI-to-AGI-Tranformation](https://github.com/Prishu-04/AI-to-AGI-Tranformation) · [Computational-Finance-research-paper](https://github.com/Prishu-04/Computational-Finance-research-paper) · [NumPy capstone](https://github.com/Prishu-04/NumPy-capstone-student-exam-analysis) |
+| 🛠️ **Apps & Dev** | [StudyOS](https://github.com/Prishu-04/StudyOS) · [App-dev](https://github.com/Prishu-04/App-dev) · [Courier_Mangement_Syetem](https://github.com/Prishu-04/Courier_Mangement_Syetem) · [Web-development-](https://github.com/Prishu-04/Web-development-) · [OOPJ-Project](https://github.com/Prishu-04/OOPJ-Project) |
 
 ### 🔨 Currently Building / Up Next
 
 | Status | Project | Idea |
 |:--:|:--|:--|
-| 🟡 In progress | **TODO: your current project** | One-line description |
+| 🟡 In progress | **Roadmap-driven build** | Working through the AI/ML, DSA and System Design roadmaps above |
 | 🔵 Planned | **RAG system with evaluation** | Hybrid search + reranking + RAGAS-style evals |
 | 🔵 Planned | **Tool-using AI agent (MCP)** | Agent with function calling, memory and guardrails |
 | 🔵 Planned | **ML model → production** | Docker + FastAPI + CI/CD + drift monitoring |
